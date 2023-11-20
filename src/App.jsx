@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-          JobMingo is Cooking
+          JobMingle is Cooking
           <br />
           Website Coming Soon!
         </h1>
